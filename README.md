@@ -109,6 +109,7 @@ When doing major version updates, create a phab task with associated diff stack 
 
 ### ldb safety rebuilds (eopkg-deps rev ldb)
 
+- ffmpegthumbs
 - (samba)
 
 ### Packages that will need a safety rebuild if Samba exports ABI changes (eopkg-deps rev samba)
